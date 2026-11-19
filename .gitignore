@@ -13,3 +13,4 @@
 # 日志与临时文件
 *.log
 node_modules/
+.vercel
