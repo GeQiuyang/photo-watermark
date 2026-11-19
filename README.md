@@ -3,6 +3,8 @@
 一个纯前端、零依赖的批量图片加水印工具。单个 HTML 文件即全部功能，图片全程在浏览器本地处理，**不上传任何服务器，不联网**。
 
 > 项目代号：`photo-watermark`
+>
+> 在线使用：https://photo-watermark-app.vercel.app
 
 ## 功能
 
